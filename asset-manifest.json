@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nomarcode_practice/static/css/main.e6c13ad2.css",
+    "main.js": "/Nomarcode_practice/static/js/main.2b3479c0.js",
+    "static/js/488.8f3e4787.chunk.js": "/Nomarcode_practice/static/js/488.8f3e4787.chunk.js",
+    "index.html": "/Nomarcode_practice/index.html",
+    "main.e6c13ad2.css.map": "/Nomarcode_practice/static/css/main.e6c13ad2.css.map",
+    "main.2b3479c0.js.map": "/Nomarcode_practice/static/js/main.2b3479c0.js.map",
+    "488.8f3e4787.chunk.js.map": "/Nomarcode_practice/static/js/488.8f3e4787.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2b3479c0.js"
+  ]
+}
